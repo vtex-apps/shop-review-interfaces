@@ -1,0 +1,14 @@
+{
+  "shop-review-form": {
+    "component": "Noop",
+    "extensible": "public"
+  },
+  "shop-review-badge": {
+    "component": "Noop",
+    "extensible": "public"
+  },
+  "shop-review-widget": {
+    "component": "Noop",
+    "extensible": "public"
+  }
+}

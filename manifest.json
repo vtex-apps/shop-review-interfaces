@@ -1,0 +1,17 @@
+{
+  "vendor": "vtex",
+  "name": "shop-review-interfaces",
+  "version": "1.0.1",
+  "title": "Shop Review Interfaces",
+  "description": "Interfaces for a merchant review app",
+  "builders": {
+    "messages": "1.x",
+    "store": "0.x",
+    "react": "3.x"
+  },
+  "mustUpdateAt": "2019-04-02",
+  "scripts": {
+    "postreleasy": "vtex publish --verbose"
+  },
+  "dependencies": {}
+}

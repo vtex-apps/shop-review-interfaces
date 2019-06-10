@@ -1052,9 +1052,9 @@ uri-js@^4.2.2:
   dependencies:
     punycode "^2.1.0"
 
-"vtex.render-runtime@http://vtex.vteximg.com.br/_v/public/typings/v1/vtex.render-runtime@8.30.0/public/_types/react":
-  version "8.30.0"
-  resolved "http://vtex.vteximg.com.br/_v/public/typings/v1/vtex.render-runtime@8.30.0/public/_types/react#9b611bb41b91834a6d17d7de82b652598bb731b5"
+"vtex.render-runtime@http://vtex.vteximg.com.br/_v/public/typings/v1/vtex.render-runtime@8.32.4/public/_types/react":
+  version "8.32.4"
+  resolved "http://vtex.vteximg.com.br/_v/public/typings/v1/vtex.render-runtime@8.32.4/public/_types/react#1a10c84c34389d3d08562235dc7a7be5e8f243bc"
 
 which@^1.2.9:
   version "1.3.1"

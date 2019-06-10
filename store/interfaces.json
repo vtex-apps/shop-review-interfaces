@@ -7,7 +7,7 @@
     "component": "Noop",
     "extensible": "public"
   },
-  "shop-review-widget": {
+  "shop-review-summary": {
     "component": "Noop",
     "extensible": "public"
   }

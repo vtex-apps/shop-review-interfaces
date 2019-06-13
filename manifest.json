@@ -1,7 +1,7 @@
 {
   "vendor": "vtex",
   "name": "shop-review-interfaces",
-  "version": "1.0.1",
+  "version": "0.2.0",
   "title": "Shop Review Interfaces",
   "description": "Interfaces for a merchant review app",
   "builders": {

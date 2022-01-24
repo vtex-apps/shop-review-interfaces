@@ -7,17 +7,24 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
-## [0.3.0] - 2019-12-27
 ### Added
+
+- Quality engineering actions.
+
+## [0.3.0] - 2019-12-27
+
+### Added
+
 - Docs builder.
 
 ## [0.2.0] - 2019-06-13
 
 ### Changed
 
-- *BREAKING* Change interface name from shop-review-widget to shop-review-summary.
+- _BREAKING_ Change interface name from shop-review-widget to shop-review-summary.
 
 ## [0.1.0] - 2019-06-10
 
 ### Added
+
 - create abstract interfaces to be used for reviews of merchants

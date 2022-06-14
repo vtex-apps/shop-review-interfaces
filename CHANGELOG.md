@@ -7,9 +7,15 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [0.3.1] - 2022-06-14
+
 ### Added
 
 - Quality engineering actions.
+
+### Fixed
+
+- Tooling and linting
 
 ## [0.3.0] - 2019-12-27
 

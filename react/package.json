@@ -14,5 +14,5 @@
     "vtex.render-runtime": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.132.4/public/@types/vtex.render-runtime",
     "vtex.shop-review-interfaces": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.shop-review-interfaces@0.3.0/public/@types/vtex.shop-review-interfaces"
   },
-  "version": "0.3.0"
+  "version": "0.3.1"
 }
